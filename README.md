@@ -1,1 +1,2 @@
 # LiveSmarter
+Už to započalo
